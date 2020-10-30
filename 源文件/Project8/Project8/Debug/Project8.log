@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\新建文件夹\Project8\Project8\源.cpp(24,9): warning C4477: “printf”: 格式字符串“%lf”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+E:\新建文件夹\Project8\Project8\源.cpp(6,17): warning C4101: “j”: 未引用的局部变量
+  Project8.vcxproj -> E:\新建文件夹\Project8\Debug\Project8.exe

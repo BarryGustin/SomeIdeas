@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\源文件\Project48\Project48\源.cpp(29,20): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\源文件\Project48\Project48\源.cpp(43,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Project48.vcxproj -> E:\源文件\Project48\Debug\Project48.exe

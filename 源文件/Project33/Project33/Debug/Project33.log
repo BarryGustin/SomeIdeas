@@ -1,0 +1,3 @@
+﻿  源.cpp
+E:\源文件\Project33\Project33\源.cpp(196,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Project33.vcxproj -> E:\源文件\Project33\Debug\Project33.exe

@@ -1,0 +1,5 @@
+﻿  源.cpp
+E:\源文件\Project51\Project51\源.cpp(23,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\源文件\Project51\Project51\源.cpp(44,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\源文件\Project51\Project51\源.cpp(33): warning C4172: 返回局部变量或临时变量的地址: next
+  Project51.vcxproj -> E:\源文件\Project51\Debug\Project51.exe

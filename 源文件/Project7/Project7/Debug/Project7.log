@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\新建文件夹\Project7\Project7\源.cpp(7,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (*)[3]”
+E:\新建文件夹\Project7\Project7\源.cpp(7,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+  Project7.vcxproj -> E:\新建文件夹\Project7\Debug\Project7.exe
